@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\xampp\htdocs\EquiAssist\|ftp://192.168.43.234:443/EquiAssist/|ftp://192.168.43.234:3306/EquiAssist/|\\192.168.43.234/EquiAssist/|\\192.168.43.234\EquiAssist\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory>http://192.168.43.234/EquiAssist/</UpdateUrlHistory>
+    <BootstrapperUrlHistory>F:\Virtual Shared\Dot Net Framework 4.5.2</BootstrapperUrlHistory>
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
